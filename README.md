@@ -6,11 +6,8 @@ A mathematical model in Machine Learning is designed with a set of parameters th
 ### Shill Bidding Dataset
 ![image](https://user-images.githubusercontent.com/91868707/233176760-aae0b44e-b3d1-4e41-9cba-967aff35843c.png)
 
-### Attributes:
+### Attributes used:
 
-* Record ID: Unique identifier of a record in the dataset.
-* Auction ID: Unique identifier of an auction.
-* Bidder ID: Unique identifier of a bidder.
 * Bidder Tendency: A shill bidder participates exclusively in auctions of few sellers rather than a diversified lot. This is a collusive act involving the fraudulent seller and an accomplice.
 * Bidding Ratio: A shill bidder participates more frequently to raise the auction price and attract higher bids from legitimate participants.
 * Successive Outbidding: A shill bidder successively outbids himself even though he is the current winner to increase the price gradually with small consecutive increments.
@@ -20,6 +17,6 @@ A mathematical model in Machine Learning is designed with a set of parameters th
 * Early Bidding: A shill bidder tends to bid pretty early in the auction (less than 25\% of the auction duration) to get the attention of auction users.
 * Winning Ratio: A shill bidder competes in many auctions but hardly wins any auctions.
 * Auction Duration: How long an auction lasted.
-* Class: Output label
 
 # Methodology
+![Screenshot (86)](https://user-images.githubusercontent.com/91868707/233196652-83530917-f31d-4bca-8070-9d35fc7ef7d8.png)
