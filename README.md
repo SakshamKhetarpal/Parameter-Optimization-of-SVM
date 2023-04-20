@@ -18,5 +18,7 @@ A mathematical model in Machine Learning is designed with a set of parameters th
 * Winning Ratio: A shill bidder competes in many auctions but hardly wins any auctions.
 * Auction Duration: How long an auction lasted.
 
-# Methodology
+# Comparative performance
 ![Screenshot (86)](https://user-images.githubusercontent.com/91868707/233196652-83530917-f31d-4bca-8070-9d35fc7ef7d8.png)
+
+![image](https://user-images.githubusercontent.com/91868707/233446888-5ff95e60-f039-4878-b1da-d9db90a51132.png)
